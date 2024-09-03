@@ -6,3 +6,11 @@
 body {
     background-image: url(background-img.jpg);
 }
+
+#icon {
+    margin-right: 0.5rem;
+}
+#img {
+    height: 4.5rem;
+    padding-bottom: 1rem;
+}
